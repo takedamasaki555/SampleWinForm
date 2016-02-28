@@ -11,7 +11,7 @@ namespace SampleWinForm
         public int Subtract(int number1, int number2)
         {
             //if (number1 == 1) return 100;
-            return number1 - number2;
+            return number1 - number2;//
         }
 
         public int Multiply(int number1, int number2)
